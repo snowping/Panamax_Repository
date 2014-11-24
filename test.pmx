@@ -1,0 +1,10 @@
+---
+name: Test
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: skomma_busybox-data_latest
+  source: skomma/busybox-data:latest
+  type: Default
